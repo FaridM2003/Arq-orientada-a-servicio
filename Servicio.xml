@@ -1,0 +1,22 @@
+<books>
+
+    <book>
+        <title>The Pragmatic Programmer</title>
+        <author>Andy Hunt, Dave Thomas</author>
+        <isbn>978-0135957059</isbn>
+        <publisher>Addison-Wesley Professional</publisher>
+        <publicationYear>1999</publicationYear>
+        <price currency="USD">45.00</price>
+        <genre>Programming</genre>
+    </book>
+
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <isbn>978-0132350884</isbn>
+        <publisher>Prentice Hall</publisher>
+        <publicationYear>2008</publicationYear>
+        <price currency="USD">37.00</price>
+        <genre>Software Engineering</genre>
+    </book>
+</books>
